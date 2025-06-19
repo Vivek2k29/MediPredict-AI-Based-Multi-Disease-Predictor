@@ -30,10 +30,11 @@ Built using:
 ## 📁 Project Structure
 
 multi-disease-predictor/
--├── flask-ml-api/ ← ML models + Flask routes
--├── springboot-backend/ ← Spring Boot controller
--├── react-frontend/ ← Frontend built in React
--└── README.md
+├── flask-ml-api/           ← ML models + Flask routes  
+├── springboot-backend/     ← Spring Boot controller  
+├── react-frontend/         ← Frontend built in React  
+└── README.md
+
 
 
 ---
