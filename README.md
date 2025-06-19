@@ -102,7 +102,7 @@ npm run dev
 ## 📸 Demo Screenshots
 
 ### 🏠 Home Page
-![Home Page](screenshots/homepage.png)
+![Home Page](screenshots/Prediction_Form.png)
 
 ### 🧪 Disease Selection
 ![Selection](screenshots/Selection.png)
