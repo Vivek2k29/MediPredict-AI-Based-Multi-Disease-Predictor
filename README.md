@@ -11,9 +11,8 @@ Built using:
 
 ## 🚀 Live Demo
 
-- Frontend (React): [Add deployed link]
-- Backend (Spring Boot): [Add deployed link]
-- ML API (Flask): [Add deployed link]
+- Application : [Under Deployment]
+
 
 ---
 
@@ -98,20 +97,6 @@ mvn spring-boot:run
 cd ../react-frontend
 npm install
 npm run dev
-
-## 📸 Demo Screenshots
-
-### 🏠 Home Page
-![Home Page](screenshots/Home_Page.png)
-
-### 🧪 Disease Selection Page
-![Selection](screenshots/Selection.png)
-
-### 🧾 Prediction Form (Input Dashboard)
-![Prediction Form](screenshots/Prediction_Form.png)
-
-### 💡 Suggestions & Graphs
-![Suggestions](screenshots/Suggestions.png)
 
 
 
