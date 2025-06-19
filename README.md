@@ -104,14 +104,14 @@ npm run dev
 ### 🏠 Home Page
 ![Home Page](screenshots/homepage.png)
 
-### 🧪 Dashboard (Prediction Form)
-![Dashboard](screenshots/Selection.png)
+### 🧪 Disease Selection
+![Selection](screenshots/Selection.png)
 
-### 📊 Result with Graphs
-![Graphs](screenshots/Prediction_Form.png)
+### 📊 Prediction Form (Input Dashboard)
+![Form](screenshots/Prediction_Form.png)
 
-### 📊 Result with Graphs
-![Graphs](screenshots/Suggestions.png)
+### 📈 Suggestions & Graphs After Prediction
+![Suggestions](screenshots/Suggestions.png)
 
 
 
