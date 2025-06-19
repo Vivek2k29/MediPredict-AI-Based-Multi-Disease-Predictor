@@ -102,16 +102,17 @@ npm run dev
 ## 📸 Demo Screenshots
 
 ### 🏠 Home Page
-![Home Page](screenshots/Prediction_Form.png)
+![Home Page](screenshots/Home_Page.png)
 
-### 🧪 Disease Selection
+### 🧪 Disease Selection Page
 ![Selection](screenshots/Selection.png)
 
-### 📊 Prediction Form (Input Dashboard)
-![Form](screenshots/Prediction_Form.png)
+### 🧾 Prediction Form (Input Dashboard)
+![Prediction Form](screenshots/Prediction_Form.png)
 
-### 📈 Suggestions & Graphs After Prediction
+### 💡 Suggestions & Graphs
 ![Suggestions](screenshots/Suggestions.png)
+
 
 
 
