@@ -1,4 +1,4 @@
-# 🧠 Multi-Disease Predictor Application
+# 🧠 MediPredict: AI-Based Multi-Disease Predictor
 
 A full-stack machine learning web application that predicts the likelihood of multiple diseases — including Diabetes, Heart Disease, Stroke, and Parkinson’s — using trained ML models.
 
