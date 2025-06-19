@@ -99,4 +99,22 @@ cd ../react-frontend
 npm install
 npm run dev
 
+## 📸 Demo Screenshots
+
+### 🏠 Home Page
+![Home Page](screenshots/homepage.png)
+
+### 🧪 Dashboard (Prediction Form)
+![Dashboard](screenshots/Selection.png)
+
+### 📊 Result with Graphs
+![Graphs](screenshots/Prediction_Form.png)
+
+### 📊 Result with Graphs
+![Graphs](screenshots/Suggestions.png)
+
+
+
+
+
 
