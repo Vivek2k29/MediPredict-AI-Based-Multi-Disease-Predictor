@@ -11,7 +11,7 @@ Built using:
 
 ## 🚀 Live Demo
 
-- Application : [Under Deployment]
+- Application : https://frontend-tau-navy-82.vercel.app/
 
 
 ---
